@@ -1,5 +1,7 @@
 # UIUC Campus Treasure Hunt
 
+![Game Screenshot](FPGA.jpg)
+
 ECE 385 Final Project - Fall 2025
 Ziheng Qi (zihengq2), Haoru Li (haorul2)
 
