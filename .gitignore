@@ -1,0 +1,31 @@
+# Project documentation (internal notes)
+CLAUDE.md
+
+# Python scripts with Chinese comments
+txt_to_coe.py
+split_large_building.py
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.xpr.backup
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Vitis workspace
+.metadata/
+RemoteSystemsTempFiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
